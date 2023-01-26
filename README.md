@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Matheus S. Estima</h1>
 <h3 align="center">Sou um estudante em Sistemas de Informação, sou um grande fã de HTML, CSS e Java Script!</h3>
 
-- 🔭 Atualmente sou estagiário em Help disk [Anota Ai](..)
+- 🔭 Atualmente sou estagiário em QA [Anota Ai](..)
 
 - 🌱 Atualmente estou aperfeiçoando meus conhecimentos em: **HTML5, CSS3, Java Script e React**
 
