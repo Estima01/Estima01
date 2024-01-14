@@ -1,19 +1,17 @@
 <h1 align="center">Olá 👋, Eu sou Matheus S. Estima</h1>
-<h3 align="center">Sou um estudante em Sistemas de Informação, sou um grande fã de HTML, CSS e Java Script!</h3>
+<h3 align="center">Sou Graduado em Sistemas de Informação, sou um grande fã de Testes de Carga, Testes Automatizados, Testes Manuais e Java Script!</h3>
 
 - 🔭 Atualmente sou QA Analyst Jr. [Anota Ai](..)
 
-- 🌱 Atualmente estou aperfeiçoando meus conhecimentos em: **HTML5, CSS3, Java Script e React**
+- 🌱 Atualmente estou aperfeiçoando meus conhecimentos em: **HTML5, Java Script, K6, Cypress**
 
 - 👯 Gosto de trabalhar com projetos, gestão e administração. [..](..)
 
-- 🤝 Procuro ajudar com os meus conhecimentos sobre HTML, CSS, Java Script e Python. [..](..)
+- 🤝 Procuro ajudar com os meus conhecimentos sobre Cypress, Testes de Carga K6, Automação em Testes de Carga, Java Script e Python. [..](..)
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em breve. [..](..)
 
 - 📝 Gosto de pesquisar e desenvolver projetos com baixos custos [..](..)
-
-- 💬 Pergunte-me sobre: **HTML, CSS, Python**
 
 - 📫 Me contate via: **matheus.estima@gmail.com / matheus.estima@furg.br**
 
