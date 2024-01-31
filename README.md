@@ -3,13 +3,13 @@
 
 - 🔭 Atualmente sou QA Analyst Jr. [Anota Ai](..)
 
-- 🌱 Atualmente estou aperfeiçoando meus conhecimentos em: **HTML5, Java Script, K6, Cypress**
+- 🌱 Atualmente estou aperfeiçoando meus conhecimentos em: **HTML5, Java Script, K6, Cypress, Python**
 
 - 👯 Gosto de trabalhar com projetos, gestão e administração. [..](..)
 
 - 🤝 Procuro ajudar com os meus conhecimentos sobre Cypress, Testes de Carga K6, Automação em Testes de Carga, Java Script e Python. [..](..)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em breve. [..](..)
+- 👨‍💻 Todos os meus projetos estaram disponíveis em breve. [..](..)
 
 - 📝 Gosto de pesquisar e desenvolver projetos com baixos custos [..](..)
 
